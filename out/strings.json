@@ -1,0 +1,27 @@
+[
+    {
+        "Account": "Github",
+        "Email": "email@email.com",
+        "Password": "testPass1"
+    },
+    {
+        "Account": "Chatterino",
+        "Email": "email@email.com",
+        "Password": "testPass2"
+    },
+    {
+        "Account": "TEst1",
+        "Email": "email@email.com",
+        "Password": "testPass3"
+    },
+    {
+        "Account": "Steam",
+        "Email": "email@email.com",
+        "Password": "testPass4"
+    },
+    {
+        "Account": "Twitch",
+        "Email": "email@email.com",
+        "Password": "testPass5"
+    }
+]
